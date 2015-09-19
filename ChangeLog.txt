@@ -1,0 +1,11 @@
+0.7.0.0
+-Surface dust for all non-atmospheric bodys.
+-Glow-effects for Pluron and Khato.
+-Cloud rings for Urlum.
+
+0.7.1.0
+-Added support for AVG-Pack
+-Reworked Neidon for all packs 
+-New texture for Neidon added
+-Config for Thatmo and Nisse added
+-alpha1.dds replaced with alpha1.png (for volumetric clouds)
